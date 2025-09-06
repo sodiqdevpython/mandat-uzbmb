@@ -8,18 +8,24 @@ from components import (
     GetAllJsMj,
     Getallchetjs,
     GetallEA,
-    Getallqiyjs
+    Getallqiyjs,
+    Getallmaktaborta,
+    Getallquyimak,
+    GetAllJsMj1
 )
 
 modules = [
-    Getallmaktabortatop,
-    Getalljs,
-    Getallprjs,
-    Getalljs1,
-    GetAllJsMj,
-    Getallchetjs,
-    GetallEA,
-    Getallqiyjs
+    # Getallmaktabortatop,
+    # Getalljs,
+    # Getallprjs,
+    # Getalljs1,
+    # GetAllJsMj,
+    # Getallchetjs,
+    # GetallEA,
+    # Getallqiyjs,
+    # Getallmaktaborta,
+    # Getallquyimak,
+    GetAllJsMj1
 ]
 
 threads = []
