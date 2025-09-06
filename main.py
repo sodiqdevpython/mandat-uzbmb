@@ -6,7 +6,7 @@ modules = [Getallmaktabortatop,Getalljs,Getallprjs,Getalljs1,GetAllJsMj,Getallch
 
 threads = []
 
-print("\nnatijalar degan folder ochildi shuni ichiga yozilayabdi\n")
+print("\nnatijalar degan folder ochildi shuni ichiga yozilayabdi\n\ntaxminan 1 minut oralig'ida yig'ib bo'ladi hammasini internet tezligingizga qarab\n\n")
 
 for mod in modules:
     t = threading.Thread(
