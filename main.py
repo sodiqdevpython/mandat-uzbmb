@@ -12,7 +12,8 @@ from components import (
     Getallmaktaborta,
     Getallquyimak,
     GetAllJsMj1,
-    Getallmaktabqiy2
+    Getallmaktabqiy2,
+    Getallmaktabqiy
 )
 
 modules = [
@@ -27,7 +28,8 @@ modules = [
     # Getallmaktaborta,
     # Getallquyimak,
     # GetAllJsMj1,
-    Getallmaktabqiy2
+    # Getallmaktabqiy2,
+    Getallmaktabqiy
 ]
 
 threads = []
